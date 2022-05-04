@@ -1,0 +1,2 @@
+tema: wireless hacking
+protocos a estudar --> Wep, wpa, wpa2, wps, wpa enterprise e o wpa3 q ngm usa
