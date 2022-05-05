@@ -1,2 +1,4 @@
 tema: wireless hacking
 protocolos a estudar --> Wep, wpa, wpa2, wps, wpa enterprise e o wpa3 q ngm usa
+
+pesquisar sobre os tipos de vulnerabilidades: xss... (rever a get do breno)
