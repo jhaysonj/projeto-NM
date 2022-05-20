@@ -3,4 +3,18 @@ data final para projeto de NM: 12/11
 tema: wireless hacking
 protocolos a estudar --> Wep, wpa, wpa2, wps, wpa enterprise e o wpa3 q ngm usa
 
-pesquisar sobre os tipos de vulnerabilidades: xss... (rever a get do breno)
+pesquisar sobre os tipos de vulnerabilidades: xss... (rever a get do breno/felinto)
+
+
+
+recomendacoes do breno:
+	https://www.krackattacks.com/
+	https://github.com/vanhoefm/fragattacks
+	https://twitter.com/vanhoefm (principais falha da wifi foram descobertas por ele)
+	
+recomendacoes do graca:
+	https://www.dz-techs.com/pt/check-if-wireless-adapter-supports-monitor-mode
+	
+	
+recomendações do felinto:
+	https://pcapplusplus.github.io/
