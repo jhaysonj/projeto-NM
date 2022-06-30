@@ -1,0 +1,17 @@
+não feito:
+ataque ao wep (sem clientes) --> fragmentação
+
+fazendo:
+airolib
+wordlist
+bypass do captive portal (falta reproduzir o cenario)
+
+
+feitos:
+    estudo geral de:
+        ataque ao WEP (com clientes)
+        ataque ao WEP (sem clientes)
+        ataque ao WEP SKA
+        ataque ao WPA2 PSK
+        bypass do filtro de mac
+        
