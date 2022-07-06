@@ -1,5 +1,7 @@
 não feito:
 ataque ao wep (sem clientes) --> fragmentação
+ataque ao wpa (PKMID) --> https://www.hackers-arise.com/post/wi-fi-hacking-part-11-the-pmkid-attack
+
 
 fazendo:
 airolib
@@ -12,6 +14,7 @@ feitos:
         ataque ao WEP (com clientes)
         ataque ao WEP (sem clientes)
         ataque ao WEP SKA
-        ataque ao WPA2 PSK
+        ataque ao WPA2 PSK (handshake)
+        ataque ao WPS
         bypass do filtro de mac
         

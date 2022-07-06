@@ -29,4 +29,15 @@ tools:
     wifite
 
 
+infos do airolib-ng:
+    https://forums.kali.org/showthread.php?31036-Aircrack-(-)-airolib-speed
+
+
+
+
+
 openwrt --> procurar firmware e instalar no modelo do meu roteador
+
+
+material interessante:
+    https://www.youtube.com/watch?v=lUzSsX4T4WQ&ab_channel=NetworkChuck
