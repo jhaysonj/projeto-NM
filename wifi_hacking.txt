@@ -1,0 +1,21 @@
+comando que mostra os canais da minha placa:
+	iwlist wlan0 channel
+
+comando que escaneia as redes de perto:
+	iwlist wlan0 scanning
+
+trocar o canal de operação da minha placa:
+	1) derrubar a interface de rede--> sudo ifconfig wlan0 down 
+	2) trocar para o canal desejado --> sudo iwconfig wlan0 channel <numero_do_canal>
+	3) subir a interface de rede --> sudo ifconfig wlan0 up
+
+modo monitor:
+	1) derruba a placa --> sudo ifconfig wlan0 down 
+	2) colocamos em modo monitor --> sudo iwconfig wlan0 mode Monitor
+	3) subir a placa --> sudo ifconfig wlan0 up
+
+comando que verifique se tem algo que impeça o modo de monitoramento ser ligado: 
+	airmon-ng check kill	
+
+monitora as redes de wifi:
+	sudo airodump-ng wlan0
