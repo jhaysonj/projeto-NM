@@ -1,3 +1,5 @@
+# EXECUTE O SCRIPT COMO SUPER USUARIO
+
 import os
 
 canal = str(input("digite o canal:"))
