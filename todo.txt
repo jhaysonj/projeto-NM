@@ -14,9 +14,7 @@ bypass do captive portal (falta reproduzir o cenario)
 
 feitos:
     estudo geral de:
-        ataque ao WEP (com clientes)
-        
-        ataque ao WEP SKA
+        ataque ao WEP ska (com clientes)
         ataque ao WPA2 PSK (handshake)
         
         
