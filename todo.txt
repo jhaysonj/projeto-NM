@@ -4,6 +4,9 @@ ataque ao wpa (PKMID) --> https://www.hackers-arise.com/post/wi-fi-hacking-part-
 
 
 fazendo:
+ataque ao WEP (sem clientes)
+ataque ao WPS
+bypass do filtro de mac
 airolib
 wordlist
 bypass do captive portal (falta reproduzir o cenario)
@@ -12,9 +15,9 @@ bypass do captive portal (falta reproduzir o cenario)
 feitos:
     estudo geral de:
         ataque ao WEP (com clientes)
-        ataque ao WEP (sem clientes)
+        
         ataque ao WEP SKA
         ataque ao WPA2 PSK (handshake)
-        ataque ao WPS
-        bypass do filtro de mac
+        
+        
         
