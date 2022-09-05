@@ -7,7 +7,7 @@ canal2ghz = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
 canal5ghz = ["36", "40", "44", "48", "52", "56", "60", "64", "100", "104", "108", "112", "116", "120", "124", "128", "132", "136", "140", "149", "153"]
 
 
-while canal.isdecimal() == False or (canal not in canal2ghz and canal not in canal5ghz):
+while ((canal.isdecimal() == False) or (canal not in canal2ghz and canal not in canal5ghz)):
     canal = str(input("canal invalido, escolha outro canal:"))
 
 # coloca a placa em modo de monitoramento
