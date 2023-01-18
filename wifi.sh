@@ -54,10 +54,12 @@ do
 
 	elif [ $choice == 2 ]
 	then
+		airmon-ng check kill
 		ifconfig $antenna_name down
 		iwconfig $antenna_name mode monitor
 		ifconfig $antenna_name up
 		sleep 1
+		airmon-ng start $antenna_name
 		iwconfig
 
 	elif [ $choice == 3 ]
